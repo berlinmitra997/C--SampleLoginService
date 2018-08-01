@@ -1,6 +1,3 @@
-# CSharp-SampleLoginService
-Hi, this app can teach you, how to using webservice with IIS 8 in Visual Studio
-
-# Step :
-- Install IIS 8
-- Visual Studio
+### What should be prepared :
+- Install IIS (Web Management Tools & World Wide Web Services)
+- Install Visual Studio
