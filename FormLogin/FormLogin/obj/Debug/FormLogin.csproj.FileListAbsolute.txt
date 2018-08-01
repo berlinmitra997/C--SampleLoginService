@@ -1,0 +1,10 @@
+E:\Berlin Mitra\2 - Pelajaran\3 - C#\FormLogin\FormLogin\bin\Debug\FormLogin.exe.config
+E:\Berlin Mitra\2 - Pelajaran\3 - C#\FormLogin\FormLogin\bin\Debug\FormLogin.exe
+E:\Berlin Mitra\2 - Pelajaran\3 - C#\FormLogin\FormLogin\bin\Debug\FormLogin.pdb
+E:\Berlin Mitra\2 - Pelajaran\3 - C#\FormLogin\FormLogin\obj\Debug\FormLogin.csprojResolveAssemblyReference.cache
+E:\Berlin Mitra\2 - Pelajaran\3 - C#\FormLogin\FormLogin\obj\Debug\FormLogin.Form1.resources
+E:\Berlin Mitra\2 - Pelajaran\3 - C#\FormLogin\FormLogin\obj\Debug\FormLogin.Form2.resources
+E:\Berlin Mitra\2 - Pelajaran\3 - C#\FormLogin\FormLogin\obj\Debug\FormLogin.Properties.Resources.resources
+E:\Berlin Mitra\2 - Pelajaran\3 - C#\FormLogin\FormLogin\obj\Debug\FormLogin.csproj.GenerateResource.Cache
+E:\Berlin Mitra\2 - Pelajaran\3 - C#\FormLogin\FormLogin\obj\Debug\FormLogin.exe
+E:\Berlin Mitra\2 - Pelajaran\3 - C#\FormLogin\FormLogin\obj\Debug\FormLogin.pdb
